@@ -1,0 +1,11 @@
+commit bb663eba0a07315d5931900f8a0e84704d19c2b6
+Author: Ramsha IJAZ <rijaz@ds2.CS.McGill.CA>
+Date:   Sun Dec 3 16:40:36 2017 -0500
+
+    Consumer file from Rivka Maclaine Mitchell Student ID: 260668534
+
+commit 64bc31c5c4fee77ec0c6cfd7e740d184ba2cc31c
+Author: Ramsha IJAZ <rijaz@ds2.CS.McGill.CA>
+Date:   Sun Dec 3 16:21:29 2017 -0500
+
+    Draft code added

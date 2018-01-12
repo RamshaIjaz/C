@@ -1,0 +1,11 @@
+program: Main.o Producer.o Consumer.o
+	gcc -o program Main.o Producer.o Consumer.o
+
+Main.o: Main.c Declaration.h
+	gcc -c Main.c
+
+Producer.o: Producer.c
+	gcc -c Producer.c
+
+Consumer.o: Consumer.c
+	gcc -c Consumer.c
